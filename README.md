@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 5/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,22 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-05 111256](https://github.com/user-attachments/assets/208e3c2a-4a95-4390-bdfb-25e9161f99f8)
+![Screenshot 2024-12-05 111310](https://github.com/user-attachments/assets/de207551-afa6-493f-9d97-14b8451bedf4)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-12-05 111439](https://github.com/user-attachments/assets/2ad8c03a-df4f-4ade-ae35-d3019402d900)
+![Screenshot 2024-12-05 111453](https://github.com/user-attachments/assets/cb7f4c5c-08a4-4586-8af1-a6d60dcf809c)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-12-05 111826](https://github.com/user-attachments/assets/b6fbe29f-6bc8-4b46-8c54-a3d6c070d8a7)
+![Screenshot 2024-12-05 111839](https://github.com/user-attachments/assets/475b2008-6110-45b0-abb6-2cdd3c3281bb)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: PELLETI SINDHU SRI
+### Register Number:24006305
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
